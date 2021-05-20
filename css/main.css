@@ -20,7 +20,7 @@ body {
 
 .button {
   background-color: black;
-  border-radius: 1%;
+  border-radius: 15px;
   color: white;
   padding: 12px 24px; /* <top/bottom><right/left>, <top right bottom left> */
   text-decoration: none;
