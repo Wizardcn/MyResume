@@ -57,7 +57,7 @@ body {
     padding: 48px;
   }
 }
-  
+
 .content {
   max-width: 500px;
 }
@@ -78,6 +78,7 @@ body {
   .name {
     font-size: 36px;
   }
+}
 
 .title {
   font-size: 96px;
